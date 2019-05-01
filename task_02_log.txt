@@ -1,0 +1,9 @@
+  670  cd pybc_l04_02
+  671  nano
+  672  nano
+  673  ls
+  674  cd jokes.txt
+  675  nano
+  676  nano jokes.txt
+  677  cat jokes.txt
+  678  history

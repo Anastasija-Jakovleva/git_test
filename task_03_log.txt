@@ -1,0 +1,54 @@
+  682  mkdir pybc_l04_03
+  683  cd pybc_l04_03
+  684  cp practice_3 /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01
+  685  cp practice_3 pybc_l04_03/
+  686  cp practice_3 pybc_l04_01/
+  687  cp practice_3 pybc_l04_01/
+  688  cp practice_3 /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_3
+  689  cp practice_3 pybc_l04_01/
+  690  ls
+  691  cd ../
+  692  ls
+  693  cp practice_3 pybc_l04_03/
+  694  cd pybc_l04_01
+  695  cp practice_3 pybc_l04_03/
+  696  cd ../
+  697  cp practice_3 pybc_l04_03/
+  698  cp practice_3 /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_03
+  699  cd ../
+  700  ls
+  701  cd practice_lesson_04
+  702  ls
+  703  cd pybc_l04_01
+  704  ls
+  705  cp practice_3 /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_03
+  706  cp -rf practice_3 /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_03
+  707  ls
+  708  cd ../
+  709  ls
+  710  cd pybc_l04_03
+  711  ls
+  712  cd practice_3
+  713  ls
+  714  nano script_01.py
+  715  cat script_01.py
+  716  sh script_01.py
+  717  nano script_01.py
+  718  nano script_01.py
+  719  nano script_01.py
+  720  sh script_01.py
+  721  pwd script_01.py
+  722  python3 script_01.py
+  723  python3 script_01.py
+  724  python3 script_01.py
+  725  python3 script_01.py
+  726  python3 script_01.py
+  727  ls
+  728  cat 2wP711DAdFd.txt
+  729  nano script_02.py
+  730  python3 from script_01 import random_joke as rj
+  731  python3 script_02.py
+  732  python3 script_02.py
+  733  python3 script_02.py
+  734  ls -all
+  735  history

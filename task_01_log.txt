@@ -1,0 +1,50 @@
+  619  cd practice_lesson_04
+  620  mkdir pybc_l04_01
+  621  ls
+  622  cd pybc_l04_01
+  623  mkdir practice_1
+  624  mkdir practice_2
+  625  mkdir practice_3
+  626  ls
+  627  cd practice_1
+  628  touch ex_01.txt
+  629  ls
+  630  touch ex_02.txt
+  631  touch ex_03.txt
+  632  touch ex_04.txt
+  633  ls
+  634  ls -a
+  635  touch script_01.py
+  636  touch script_02.py
+  637  ls
+  638  echo I heard there was a new store called Moderation. They have everything there ex_01.txt
+  639  ls
+  640  echo I heard there was a new store called Moderation. They have everything there /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_1/ex_01.txt
+  641  echo I heard there was a new store called Moderation. They have everything there > /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_1/ex_01.txt
+  642  echo I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there. > ex_02.txt
+  643  echo How many bones are in the human hand? A handful of them. > ex_03.txt
+  644  echo I used to work for a soft drink can crusher. It was soda pressing. > ex_04.txt
+  645  cp ex_03.txt, ex_04.txt > practice_2
+  646  cp ex_03.txt, ex_04.txt /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_2
+  647  cp ex_03.txt, ex_04.txt practice_2/
+  648  cp ex_03.txt practice_2/
+  649  cp ex_03.txt practice_2/
+  650  cp ex_03.txt practice_2/
+  651  cp ex_03.txt practice_2/
+  652  cp ex_03.txt /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_2
+  653  mv script_01.py practice_3
+  654  mv script_01.py /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_3
+  655  mv script_02.py /Users/anastasia/Desktop/Курсы_python/new_course/to_share_L04_PYBC/practice_lesson_04/pybc_l04_01/practice_3
+  656  ls -a
+  657  cat ex_01.txt
+  658  cat ex_02.txt
+  659  less ex_03.txt
+  660  less ex_04.txt
+  661  cd ../
+  662  rmdir practice_1
+  663  rm -rf practice_1
+  664  ls
+  665  touch task_01_log.txt
+  666  ls
+  667  history
+MacBook-Pro-Anastasia:pybc_l04_01 anastasia$ 
